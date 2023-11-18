@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbitMQ.DirectExchange\\RabbitMQ.DirectExchange.Publisher\\RabbitMQ.DirectExchange.Publisher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbitMQ.DirectExchange\\RabbitMQ.DirectExchange.Publisher\\RabbitMQ.DirectExchange.Publisher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbitMQ.DirectExchange\\RabbitMQ.DirectExchange.Publisher\\RabbitMQ.DirectExchange.Publisher.csproj",
+        "projectName": "RabbitMQ.DirectExchange.Publisher",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbitMQ.DirectExchange\\RabbitMQ.DirectExchange.Publisher\\RabbitMQ.DirectExchange.Publisher.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\.NetProjeler\\RabbitMQ.DirectExchange\\RabbitMQ.DirectExchange.Publisher\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
